@@ -217,30 +217,5 @@
             <li>Accessibility Issues: Guests with mobility impairments may request a complimentary escort service to/from the restaurant and priority seating.</li>
         </ul>
     </div>
-
-    <!-- 参考文献与版本历史 -->
-    <div class="section">
-        <h2>References</h2>
-        <ul>
-            <li>Australian Consumer Law, ACL</li>
-            <li>ACCCC Guidelines</li>
-        </ul>
-        
-        <h2>Version history</h2>
-        <table>
-            <tr>
-                <th>Version number</th>
-                <th>Author</th>
-                <th>Date of approval</th>
-                <th>Revision note</th>
-            </tr>
-            <tr>
-                <td>V 1.0</td>
-                <td>伊雨晨</td>
-                <td>22/5/2025</td>
-                <td></td>
-            </tr>
-        </table>
-    </div>
 </body>
 </html>
