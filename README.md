@@ -219,14 +219,6 @@
    
      <!-- 参考文献与版本历史 -->
     <div class="section">
-        <h2>References</h2>
-        <ul>
-            <li>Australian Consumer Law, ACL</li>
-            <li>ACCCC Guidelines</li>
-        </ul>
-        
-        <h2>Version history</h2>
-        <table>
             <tr>
                 <th>Version number</th>
                 <th>Author</th>
@@ -241,5 +233,3 @@
             </tr>
         </table>
         </div>
-</body>
-</html>
