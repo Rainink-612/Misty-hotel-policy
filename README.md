@@ -216,9 +216,11 @@
             <li>Dietary Restrictions: For complaints related to unmet dietary requirements (e.g., gluten-free, vegan), a dedicated chef will personally oversee meal reconstruction and offer a complimentary dessert.</li>
             <li>Accessibility Issues: Guests with mobility impairments may request a complimentary escort service to/from the restaurant and priority seating.</li>
         </ul>
-   
-     <!-- 参考文献与版本历史 -->
+    </div>
+<!-- 版本历史 -->
     <div class="section">
+        <h2>Version history</h2>
+        <table>
             <tr>
                 <th>Version number</th>
                 <th>Author</th>
@@ -232,4 +234,6 @@
                 <td></td>
             </tr>
         </table>
-        </div>
+    </div>
+</body>
+</html>
