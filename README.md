@@ -133,7 +133,7 @@
             </tr>
             <tr>
                 <td>Phone</td>
-                <td>Call the dedicated line: +61-3-XXXX-XXXX (7:00–23:00 daily).</td>
+                <td>Call the dedicated line: +61-3-3615-5596 (7:00–23:00 daily).</td>
                 <td>Verbal confirmation of receipt within 3 rings.</td>
             </tr>
             <tr>
